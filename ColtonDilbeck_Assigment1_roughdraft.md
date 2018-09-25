@@ -1,4 +1,4 @@
-# Instructions on Processing a Hog into Wholesale Cuts
+# Instructions on Processing a Hog
 
 ## Summary
 
