@@ -1,3 +1,6 @@
+*******
+This document is incomplete. I would like to know if my document is clear an easy to read or follow. Is there anything in the document that you would remove?
+******
 # Instructions on Processing a Hog
 
 ## Summary
