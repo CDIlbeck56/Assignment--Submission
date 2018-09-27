@@ -45,11 +45,11 @@ Last, take your boning knife and cut in between the ribs and the belly. Keep you
 ## FAQ
 
 - Q: How many hogs will you have to process before this process becomes a habit?
-- A: This varies depending on the person. Some people learn at a faster rate than others. There is not a set number pigs. You will learn by repitition.
+- A: *This varies depending on the person. Some people learn at a faster rate than others. There is not a set number of pigs. You will learn by repetition.*
 - Q: Pigs vary in size. So, how does the size of the pig affect where you make your cuts?
-- A: Most pigs are butcherd at about 250 pounds. So, my cutting measurements are based on that weight. If the pig is smaller, then for instance your mesurment from the pelvic bone will be smaller. This keeps you from cutting into the loin and taking from a higher priced cut of meat.
-- Q: When seperating the loin from the side, how do know the distance you are to the loin?
-- A: You can only tell when you first start. From there you rely more on instincts and take your cuts slow. By going slow you can make adjustments as you saw.
+- A: *Most pigs are butchered at about 250 pounds. So, my cutting measurements are based on that weight. If the pig is smaller, then for instance your measurement from the pelvic bone will be smaller. This keeps you from cutting into the loin and taking from a higher priced cut of meat.*
+- Q: When separating the loin from the side, how do know the distance you are to the loin?
+- A: *You can only tell when you first start. From there you rely more on instincts and take your cuts slow. By going slow you can make adjustments as you saw.*
 
 ## Pitfalls
 
