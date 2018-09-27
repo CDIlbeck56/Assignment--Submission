@@ -32,7 +32,7 @@ Start the process with half a pig lying flat on the cutting table with the feet 
 
 ### Step 2: Removal of the Ham
 
-Next, move to the hind quarter of the pig. Take two fingers and place next to the split pelvic bone. A two fingers width is about two inches away from the pelvic bone. Visual a straight line from the outside edge of your finger. The line your visualizing should extend from the hogs back down to the flank (where the ham and belly connect on the underside of the hog). Next take the boning or electric saw and cut straight down that visual line and all the way through the carcass. The ham should now be detached from the remainder of the pig. This picture illustrates how the end product should look.
+Next, move to the hind quarter of the pig. Take two fingers and place next to the split pelvic bone. A two fingers width is about two inches away from the pelvic bone. Visual a straight line from the outside edge of your finger. The line your visualizing should extend from the hogs back down to the flank (where the ham and belly connect on the underside of the hog). Next, take the boning or electric saw and cut straight down that visual line and all the way through the carcass. The ham should now be detached from the remainder of the pig. This picture illustrates how the end product should look.
 
 ### Step 3: Separating of the Loin from the Side
 
@@ -47,7 +47,7 @@ Last, take your boning knife and cut in between the ribs and the belly. Keep you
 - Q: How many hogs will you have to process before this process becomes a habit?
 - A: *This varies depending on the person. Some people learn at a faster rate than others. There is not a set number of pigs. You will learn by repetition.*
 - Q: Pigs vary in size. So, how does the size of the pig affect where you make your cuts?
-- A: *Most pigs are butchered at about 250 pounds. So, my cutting measurements are based on that weight. If the pig is smaller, then for instance your measurement from the pelvic bone will be smaller. This keeps you from cutting into the loin and taking from a higher priced cut of meat.*
+- A: *Most pigs are butchered at about 250 pounds. So, my cutting measurements are based on that weight. If the pig is smaller, then your measurement from the pelvic bone will be smaller. This keeps you from cutting into the loin and taking from a higher priced cut of meat.*
 - Q: When separating the loin from the side, how do know the distance you are to the loin?
 - A: *You can only tell when you first start. From there you rely more on instincts and take your cuts slow. By going slow you can make adjustments as you saw.*
 
