@@ -3,7 +3,7 @@
 ****
 **Colton Dilbeck**
 Technical Writing
-Insructional Document
+Instructional Document
 ****
 
 ## Introduction
