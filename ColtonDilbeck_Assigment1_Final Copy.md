@@ -62,7 +62,7 @@ Last, take your boning knife and cut in between the ribs and the belly. Keep you
 - Don't be afraid of making a mistake
 - Avoid making fast cuts
 - Make sure that your saw blade has no missing saw teeth.
-- Make sure that your boning knife is sharp and remains sharp
+- Make sure that your boning knife is sharp and remains sharp 
 
 
 
