@@ -1,4 +1,4 @@
-# How to Process a Pig into Wholesale Cuts
+ # How to Process a Pig into Wholesale Cuts
 
 ## Introduction
 
@@ -12,12 +12,12 @@ Processing a hog into wholesale cuts is an important trade that a butcher most l
 
 ### Introduction: Supplies Needed and Supplied
 
--Boning Knife
--Bone Saw
--Electric Saw (Optional)
--Cutting Table
--Water Hose
--Minimum of 4 Tubs or Barrels
+- Boning Knife
+- Bone Saw
+- Electric Saw (Optional)
+- Cutting Table
+- Water Hose
+- Minimum of 4 Tubs or Barrels
 
 ### Step 1: Removing the Front Shoulder
 
