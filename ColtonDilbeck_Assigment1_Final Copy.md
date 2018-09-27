@@ -15,7 +15,7 @@ This instructional document was designed to teach people recently hired in butch
 ### Background Information
 
 Processing a hog into wholesale cuts is an important trade that a butcher most learn. In order to make money for the business and keep a job as a butcher, one must be able to process a pig into the four main wholesale cuts. The four wholesale cuts are ham, loin, shoulder, and side (belly). The purpose for processing pigs is to make money and the eat of course; however, if you can't produce an end product that satisfies the customer or doesn't taste good, then you are hurting the value of the business. Hogs are processed in a particular order or manner because certain cuts of the pig are of higher value to consumers. Consumers may prefer one particular cut of meat over the other; therefore, a butcher must know and understand where that cut of meat comes from and the steps that he must take in order to provide the preferred cut. Following the steps and instructions will also help reduce mistakes. These steps must be followed in this particular order to prevent parts of the pig from being mis-cut. Making a wrong cut could degrade the value of the meat.
-![wholesale Cuts](https://github.com/CDIlbeck56/Assignment--Submission/blob/master/pork_carcass_breakdown.gif?raw=true)
+![wholesale Diagram](https://github.com/CDIlbeck56/Assignment--Submission/blob/master/pork_carcass_breakdown.gif?raw=true)
 
 ### Supplies Needed
 
@@ -29,7 +29,8 @@ Processing a hog into wholesale cuts is an important trade that a butcher most l
 
 ### Step 1: Removing the Front Shoulder
 
-Start the process with half a pig lying flat on the cutting table with the feet facing you. Move to the front quarter of the pig. Find the first rib and count back three ribs. Visualize a straight line in between the third and fourth rib that extends from the top of the pig down into its armpit area. Take the saw of your choice and cut in a straight line in between the third and fourth rib. The spine should be the only bone that you have to saw through. The shoulder should now be detached. This picture illustrates how the end product should look. 
+Start the process with half a pig lying flat on the cutting table with the feet facing you. Move to the front quarter of the pig. Find the first rib and count back three ribs. Visualize a straight line in between the third and fourth rib that extends from the top of the pig down into its armpit area. Take the saw of your choice and cut in a straight line in between the third and fourth rib. The spine should be the only bone that you have to saw through. The shoulder should now be detached. This picture illustrates how the end product should look.
+![Pork Shoulder](https://github.com/CDIlbeck56/Assignment--Submission/blob/master/Pork%20Shoulder.jpg?raw=true)
 
 ### Step 2: Removal of the Ham
 
