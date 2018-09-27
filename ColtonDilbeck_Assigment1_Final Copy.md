@@ -1,22 +1,24 @@
-# How to Process a Pig into Wholesale Cuts
+# **Instructions on Processing a Pig into Wholesale Cuts**
 
 ## Introduction
 
-### Introduction: The Purpose of the Instructions
+### The Purpose of the Instructions
 
 This instructional document was designed to teach people recently hired in butchering or processing facilities. This document explains how to process a pig into wholesale cuts. The instructions assume that the new hires have already completed a training on wholesale cuts. In addition, the new hires have completed equipment safety training. The instructions are set up in a step-by-step format. It is important that you read the entire step before starting the task. The document will walk you trough the process while you are practicing and getting hands on training. In addition to breaking down the steps, the instructions also explain the importance of following the step-by-step procedure and illustrates what the end product for each step should look like.
 
-### Introduction: Background Information
+### Background Information
 
 Processing a hog into wholesale cuts is an important trade that a butcher most learn. In order to make money for the business and keep a job as a butcher, one must be able to process a pig into the four main wholesale cuts. The four wholesale cuts are ham, loin, shoulder, and side (belly). The purpose for processing pigs is to make money and the eat of course; however, if you can't produce an end product that satisfies the costumer or dosen't taste good, then you are hurting the value of the business. Hogs are processed in a particular order or manner because certain cuts of the pig are of higher value to consumers. Consumer's may prefer one particular cut of meat over the other; therefore, a butcher must know and understand where that cut of meat comes from and the steps that he must take in order to provide the preferred cut. Following the steps and instructions will also help reduce mistakes. These steps must be followed in this particular order to prevent parts of the pig from being mis-cut. Making a wrong cut could degrade the value of the meat.
 
-### Introduction: Supplies Needed
+### Supplies Needed
 
 - Boning Knife
 - Bone Saw
 - Electric Saw (Optional)
 - Cutting Table
 - Half a Hog
+
+## Step-By-Step Instructions
 
 ### Step 1: Removing the Front Shoulder
 
@@ -34,9 +36,9 @@ Next move to the end of pig where the shoulder of the pig was detached. Position
 
 Last, take your boning knife and cut in between the ribs and the belly. Keep your knife blade angled up to avoid cutting into the bacon. Keep cutting until the entire lower section of the ribs is removed from the belly. This picture illustrates how the end product should look.
 
-### FAQ
+## FAQ
 
-### Pitfalls
+## Pitfalls
 
 
 
