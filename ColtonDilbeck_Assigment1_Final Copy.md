@@ -4,7 +4,7 @@
 
 ### Introduction: The Purpose of the Instructions
 
-This instructional document was designed to teach people recently hired in butchering or processing facilities. This document explains how to process a pig into wholesale or primal cuts. The instructions assume that the new hires have already completed a training on wholesale cuts. In addition, the new hires have completed equipment safety training. The instructions are set up in a step-by-step format. It is important that you read the entire step before starting the task. The document will walk you trough the process while you are practicing and getting hands on training. In addition to breaking down the steps, the instructions also explain the importance of following the step-by-step procedure and illustrates what the end product for each step should look like.
+This instructional document was designed to teach people recently hired in butchering or processing facilities. This document explains how to process a pig into wholesale cuts. The instructions assume that the new hires have already completed a training on wholesale cuts. In addition, the new hires have completed equipment safety training. The instructions are set up in a step-by-step format. It is important that you read the entire step before starting the task. The document will walk you trough the process while you are practicing and getting hands on training. In addition to breaking down the steps, the instructions also explain the importance of following the step-by-step procedure and illustrates what the end product for each step should look like.
 
 ### Introduction: Background Information
 
