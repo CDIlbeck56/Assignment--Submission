@@ -10,14 +10,13 @@ This instructional document was designed to teach people recently hired in butch
 
 Processing a hog into wholesale cuts is an important trade that a butcher most learn. In order to make money for the business and keep a job as a butcher, one must be able to process a pig into the four main wholesale cuts. The four wholesale cuts are ham, loin, shoulder, and side (belly). The purpose for processing pigs is to make money and the eat of course; however, if you can't produce an end product that satisfies the costumer or dosen't taste good, then you are hurting the value of the business. Hogs are processed in a particular order or manner because certain cuts of the pig are of higher value to consumers. Consumer's may prefer one particular cut of meat over the other; therefore, a butcher must know and understand where that cut of meat comes from and the steps that he must take in order to provide the preferred cut. Following the steps and instructions will also help reduce mistakes. These steps must be followed in this particular order to prevent parts of the pig from being mis-cut. Making a wrong cut could degrade the value of the meat.
 
-### Introduction: Supplies Needed and Supplied
+### Introduction: Supplies Needed
 
 - Boning Knife
 - Bone Saw
 - Electric Saw (Optional)
 - Cutting Table
-- Water Hose
-- Minimum of 4 Tubs or Barrels
+- Half a Hog
 
 ### Step 1: Removing the Front Shoulder
 
