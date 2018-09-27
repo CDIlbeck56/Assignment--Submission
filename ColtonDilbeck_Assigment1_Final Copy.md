@@ -1,7 +1,7 @@
 # **Instructions on Processing a Pig into Wholesale Cuts**
 
 ****
-*Colton Dilbeck*
+**Colton Dilbeck**
 Technical Writing
 Insructional Document
 ****
