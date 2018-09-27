@@ -35,6 +35,7 @@ Start the process with half a pig lying flat on the cutting table with the feet 
 ### Step 2: Removal of the Ham
 
 Next, move to the hind quarter of the pig. Take two fingers and place next to the split pelvic bone. A two fingers width is about two inches away from the pelvic bone. Visual a straight line from the outside edge of your finger. The line your visualizing should extend from the hogs back down to the flank (where the ham and belly connect on the underside of the hog). Next, take the boning or electric saw and cut straight down that visual line and all the way through the carcass. The ham should now be detached from the remainder of the pig. This picture illustrates how the end product should look.
+![Ham](https://github.com/CDIlbeck56/Assignment--Submission/blob/master/401_leg_fresh_ham.jpg?raw=true)
 
 ### Step 3: Separating of the Loin from the Side
 
