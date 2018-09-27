@@ -4,7 +4,7 @@
 
 ### Introduction: The Purose of the Instuctions
 
-This instructional document was designed to teach people recently hired in butchering or processing facilites. This document explains how to process a pig into wholesale or primal cuts. The instructions assume that the new hires have already completed a training on wholesale cuts. In addition, the new hires have completed equipment saftey training. The intructions are set up in a step-by-step format. The document will walk them trough the processs during their hands on training. In addition to breaking down the steps, the instructions also explain the importance of following the step-by-step procedure and illustrates what the end product for each step should look like.
+This instructional document was designed to teach people recently hired in butchering or processing facilites. This document explains how to process a pig into wholesale or primal cuts. The instructions assume that the new hires have already completed a training on wholesale cuts. In addition, the new hires have completed equipment saftey training. The intructions are set up in a step-by-step format. It is important that you read the entire step before sarting the task. The document will walk you trough the processs while you are practicing and getting some hands on training. In addition to breaking down the steps, the instructions also explain the importance of following the step-by-step procedure and illustrates what the end product for each step should look like.
 
 ### Introduction: Background Infromation
 
@@ -34,6 +34,11 @@ Next move to the end of pig where the shoulder of the pig was dettached. Positio
 ### Step 4: Remove the Lower Ribs from the Belly
 
 Last, take your boning knife and cut in between the ribs and the belly. Keep your knife balde angled up to avoid cutting into the bacon. Keep cutting until the entire lower section of the ribs is removed from the belly.
+
+### FAQ
+
+### Pitfalls
+
 
 
 
